@@ -102,7 +102,7 @@
 
 		})();
 
-	// Signup Form.
+	/*// Signup Form.
 		(function() {
 
 			// Vars.
@@ -168,5 +168,6 @@
 				});
 
 		})();
+	*/
 
 })();
