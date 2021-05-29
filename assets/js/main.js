@@ -36,11 +36,11 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/1_missing_wide.png': 'center',
-							'images/2_putrid_wide.png': 'center',
-							'images/3_library_hero_crop.png': 'bottom',
-							'images/4_void_crop.png': 'top',
-							'images/5_horde.png': 'center',
+							'images/1_missing_wide.jpg': 'center',
+							'images/2_putrid_wide.jpg': 'center',
+							'images/3_library_hero_crop.jpg': 'bottom',
+							'images/4_void_crop.jpg': 'top',
+							'images/5_horde.jpg': 'center',
 						},
 
 					// Delay.
