@@ -57,7 +57,11 @@ input::-moz-focus-inner {
 
 @font-face {
   font-family: Edirne; 
-  src: url(/assets/webfonts/Edirne-Normal.otf);
+  src: url('Edirne-Normal.eot');
+  src: url('Edirne-Normal.woff2') format("woff2"), 
+       url('Edirne-Normal.woff') format("woff"),
+       url('Edirne-Normal.ttf') format("truetype"),
+       url('Edirne-Normal.svg') format("svg");  
 }
 
 input, select, textarea {
